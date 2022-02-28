@@ -11,7 +11,7 @@ Decentralized News Portal, that running on Crab Network, where everyone who has 
 
 ## Presentation
 
-- **Video demo:** []()
+- **Video demo:** [https://vimeo.com/682989541](https://vimeo.com/682989541)
 - **Live demo:** [https://crab-news-portal.netlify.app](https://crab-news-portal.netlify.app)
 
 ----------
@@ -31,7 +31,7 @@ Decentralized News Portal, that running on Crab Network, where everyone who has 
 
 <table>
   <tr>
-    <td><img src="./public/screen1.png"  /></td>
+    <td><img src="./public/screen3.png"  /></td>
     <td><img src="./public/screen2.png"  /></td>
   </tr>
 </table>
